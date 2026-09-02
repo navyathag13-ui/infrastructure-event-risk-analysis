@@ -1,0 +1,251 @@
+event_id,event_date,asset_id,asset_group,region,event_category,duration_minutes,severity,customers_affected,year,month,quarter,day_of_week,season
+1,2024-07-21,A036,Line,North,Equipment Failure,173,4,241,2024,7,3,Sunday,Summer
+2,2024-02-05,A030,Line,North,Equipment Failure,125,5,332,2024,2,1,Monday,Winter
+3,2024-02-10,A011,Feeder,Central,Overload,137,4,469,2024,2,1,Saturday,Winter
+4,2024-06-25,A028,Feeder,North,Equipment Failure,90,5,379,2024,6,2,Tuesday,Summer
+5,2024-12-16,A011,Feeder,Central,Inspection Follow-up,77,1,243,2024,12,4,Monday,Winter
+6,2024-11-21,A005,Transformer,Central,Inspection Follow-up,85,3,243,2024,11,4,Thursday,Fall
+7,2024-12-21,A024,Transformer,West,Overload,103,4,108,2024,12,4,Saturday,Winter
+8,2024-08-26,A004,Transformer,Central,Equipment Failure,98,4,83,2024,8,3,Monday,Summer
+9,2024-07-24,A027,Line,Central,Equipment Failure,114,4,410,2024,7,3,Wednesday,Summer
+10,2024-11-18,A022,Line,North,Weather,123,3,306,2024,11,4,Monday,Fall
+11,2024-08-10,A001,Transformer,North,Weather,252,5,92,2024,8,3,Saturday,Summer
+12,2024-10-16,A028,Feeder,North,Inspection Follow-up,39,3,151,2024,10,4,Wednesday,Fall
+13,2024-10-02,A033,Switch,East,Inspection Follow-up,38,1,83,2024,10,4,Wednesday,Fall
+14,2024-06-25,A040,Switch,East,Weather,167,4,96,2024,6,2,Tuesday,Summer
+15,2024-08-27,A005,Transformer,Central,Weather,177,3,67,2024,8,3,Tuesday,Summer
+16,2024-05-20,A035,Line,South,Vegetation,113,1,363,2024,5,2,Monday,Spring
+17,2024-03-21,A014,Line,North,Vegetation,111,1,102,2024,3,1,Thursday,Spring
+18,2024-03-02,A017,Feeder,South,Equipment Failure,203,3,138,2024,3,1,Saturday,Spring
+19,2024-03-14,A020,Transformer,East,Vegetation,35,1,154,2024,3,1,Thursday,Spring
+20,2024-05-27,A002,Line,South,Equipment Failure,175,3,182,2024,5,2,Monday,Spring
+21,2024-02-09,A015,Feeder,West,Equipment Failure,258,3,324,2024,2,1,Friday,Winter
+22,2024-09-26,A012,Switch,South,Inspection Follow-up,59,3,131,2024,9,3,Thursday,Fall
+23,2024-09-05,A035,Line,South,Equipment Failure,200,5,247,2024,9,3,Thursday,Fall
+24,2024-08-15,A013,Switch,Central,Overload,84,3,102,2024,8,3,Thursday,Summer
+25,2024-01-02,A014,Line,North,Inspection Follow-up,25,1,195,2024,1,1,Tuesday,Winter
+26,2024-11-23,A016,Line,East,Overload,58,4,284,2024,11,4,Saturday,Fall
+27,2024-10-27,A001,Transformer,North,Weather,259,5,84,2024,10,4,Sunday,Fall
+28,2024-08-03,A033,Switch,East,Overload,80,4,81,2024,8,3,Saturday,Summer
+29,2024-07-11,A019,Transformer,West,Equipment Failure,175,3,89,2024,7,3,Thursday,Summer
+30,2024-12-24,A035,Line,South,Overload,147,3,279,2024,12,4,Tuesday,Winter
+31,2024-10-18,A035,Line,South,Inspection Follow-up,70,3,164,2024,10,4,Friday,Fall
+32,2024-06-11,A002,Line,South,Overload,46,2,247,2024,6,2,Tuesday,Summer
+33,2024-04-07,A025,Transformer,Central,Vegetation,83,1,216,2024,4,2,Sunday,Spring
+34,2024-02-19,A002,Line,South,Inspection Follow-up,29,1,138,2024,2,1,Monday,Winter
+35,2024-01-12,A002,Line,South,Vegetation,78,2,387,2024,1,1,Friday,Winter
+36,2024-03-24,A035,Line,South,Overload,169,2,315,2024,3,1,Sunday,Spring
+37,2024-10-20,A034,Feeder,East,Vegetation,98,3,262,2024,10,4,Sunday,Fall
+38,2024-04-03,A025,Transformer,Central,Vegetation,138,3,121,2024,4,2,Wednesday,Spring
+39,2024-06-16,A016,Line,East,Overload,101,2,204,2024,6,2,Sunday,Summer
+40,2024-02-24,A036,Line,North,Inspection Follow-up,57,2,141,2024,2,1,Saturday,Winter
+41,2024-03-09,A035,Line,South,Equipment Failure,145,3,234,2024,3,1,Saturday,Spring
+42,2024-08-04,A003,Feeder,South,Weather,201,2,294,2024,8,3,Sunday,Summer
+43,2024-07-15,A005,Transformer,Central,Overload,53,2,80,2024,7,3,Monday,Summer
+44,2024-04-06,A029,Transformer,South,Vegetation,84,1,104,2024,4,2,Saturday,Spring
+45,2024-05-26,A036,Line,North,Weather,100,4,312,2024,5,2,Sunday,Spring
+46,2024-02-15,A038,Breaker,South,Equipment Failure,119,3,142,2024,2,1,Thursday,Winter
+47,2024-04-22,A020,Transformer,East,Overload,166,3,132,2024,4,2,Monday,Spring
+48,2024-02-16,A037,Breaker,South,Inspection Follow-up,88,3,155,2024,2,1,Friday,Winter
+49,2024-06-09,A023,Switch,Central,Overload,66,3,136,2024,6,2,Sunday,Summer
+50,2024-04-09,A021,Line,Central,Weather,257,5,335,2024,4,2,Tuesday,Spring
+51,2024-04-27,A036,Line,North,Equipment Failure,202,5,87,2024,4,2,Saturday,Spring
+52,2024-04-20,A008,Feeder,South,Overload,79,3,244,2024,4,2,Saturday,Spring
+53,2024-08-18,A033,Switch,East,Equipment Failure,160,3,145,2024,8,3,Sunday,Summer
+54,2024-06-24,A031,Feeder,North,Vegetation,127,2,316,2024,6,2,Monday,Summer
+55,2024-07-28,A031,Feeder,North,Overload,78,2,389,2024,7,3,Sunday,Summer
+56,2024-04-21,A010,Transformer,Central,Weather,180,2,233,2024,4,2,Sunday,Spring
+57,2024-07-05,A019,Transformer,West,Equipment Failure,113,3,133,2024,7,3,Friday,Summer
+58,2024-08-21,A016,Line,East,Inspection Follow-up,36,3,378,2024,8,3,Wednesday,Summer
+59,2024-05-07,A017,Feeder,South,Overload,159,3,447,2024,5,2,Tuesday,Spring
+60,2024-05-25,A025,Transformer,Central,Overload,131,2,151,2024,5,2,Saturday,Spring
+61,2024-06-24,A015,Feeder,West,Inspection Follow-up,47,3,278,2024,6,2,Monday,Summer
+62,2024-12-28,A009,Breaker,Central,Weather,135,3,105,2024,12,4,Saturday,Winter
+63,2024-10-13,A022,Line,North,Weather,179,4,312,2024,10,4,Sunday,Fall
+64,2024-03-02,A024,Transformer,West,Weather,232,4,212,2024,3,1,Saturday,Spring
+65,2024-12-24,A003,Feeder,South,Vegetation,42,4,476,2024,12,4,Tuesday,Winter
+66,2024-09-21,A010,Transformer,Central,Overload,165,2,163,2024,9,3,Saturday,Fall
+67,2024-03-26,A023,Switch,Central,Weather,161,2,105,2024,3,1,Tuesday,Spring
+68,2024-05-26,A037,Breaker,South,Equipment Failure,302,3,168,2024,5,2,Sunday,Spring
+69,2024-02-24,A012,Switch,South,Weather,229,4,127,2024,2,1,Saturday,Winter
+70,2024-11-01,A005,Transformer,Central,Overload,171,4,236,2024,11,4,Friday,Fall
+71,2024-09-23,A004,Transformer,Central,Overload,67,3,87,2024,9,3,Monday,Fall
+72,2024-04-14,A021,Line,Central,Overload,156,4,190,2024,4,2,Sunday,Spring
+73,2024-02-14,A022,Line,North,Overload,64,3,114,2024,2,1,Wednesday,Winter
+74,2024-06-04,A007,Transformer,North,Vegetation,101,1,220,2024,6,2,Tuesday,Summer
+75,2024-01-06,A037,Breaker,South,Inspection Follow-up,43,2,98,2024,1,1,Saturday,Winter
+76,2024-07-15,A018,Line,North,Vegetation,30,2,351,2024,7,3,Monday,Summer
+77,2024-11-14,A022,Line,North,Equipment Failure,169,3,121,2024,11,4,Thursday,Fall
+78,2024-11-10,A032,Switch,East,Inspection Follow-up,80,2,144,2024,11,4,Sunday,Fall
+79,2024-03-05,A003,Feeder,South,Equipment Failure,243,3,181,2024,3,1,Tuesday,Spring
+80,2024-07-23,A025,Transformer,Central,Inspection Follow-up,24,1,167,2024,7,3,Tuesday,Summer
+81,2024-02-13,A027,Line,Central,Vegetation,32,3,303,2024,2,1,Tuesday,Winter
+82,2024-03-09,A020,Transformer,East,Vegetation,129,2,236,2024,3,1,Saturday,Spring
+83,2024-03-15,A013,Switch,Central,Equipment Failure,129,4,102,2024,3,1,Friday,Spring
+84,2024-02-21,A005,Transformer,Central,Overload,110,3,165,2024,2,1,Wednesday,Winter
+85,2024-02-26,A006,Switch,North,Inspection Follow-up,89,3,35,2024,2,1,Monday,Winter
+86,2024-11-21,A022,Line,North,Weather,189,5,289,2024,11,4,Thursday,Fall
+87,2024-11-23,A022,Line,North,Weather,144,4,152,2024,11,4,Saturday,Fall
+88,2024-09-12,A026,Line,Central,Equipment Failure,271,5,349,2024,9,3,Thursday,Fall
+89,2024-10-05,A002,Line,South,Vegetation,57,2,339,2024,10,4,Saturday,Fall
+90,2024-04-18,A039,Feeder,West,Overload,82,4,347,2024,4,2,Thursday,Spring
+91,2024-05-02,A016,Line,East,Vegetation,90,3,162,2024,5,2,Thursday,Spring
+92,2024-08-12,A031,Feeder,North,Vegetation,121,2,195,2024,8,3,Monday,Summer
+93,2024-03-02,A002,Line,South,Overload,135,2,412,2024,3,1,Saturday,Spring
+94,2024-05-08,A019,Transformer,West,Overload,160,3,88,2024,5,2,Wednesday,Spring
+95,2024-01-20,A020,Transformer,East,Weather,72,2,197,2024,1,1,Saturday,Winter
+96,2024-12-01,A023,Switch,Central,Equipment Failure,196,3,115,2024,12,4,Sunday,Winter
+97,2024-11-06,A023,Switch,Central,Weather,148,4,138,2024,11,4,Wednesday,Fall
+98,2024-01-25,A009,Breaker,Central,Weather,243,3,94,2024,1,1,Thursday,Winter
+99,2024-08-23,A013,Switch,Central,Vegetation,129,3,106,2024,8,3,Friday,Summer
+100,2024-05-15,A032,Switch,East,Vegetation,64,2,103,2024,5,2,Wednesday,Spring
+101,2024-06-17,A039,Feeder,West,Overload,129,4,447,2024,6,2,Monday,Summer
+102,2024-11-15,A011,Feeder,Central,Weather,96,3,316,2024,11,4,Friday,Fall
+103,2024-09-13,A024,Transformer,West,Vegetation,39,3,113,2024,9,3,Friday,Fall
+104,2024-02-26,A036,Line,North,Weather,127,4,311,2024,2,1,Monday,Winter
+105,2024-08-01,A021,Line,Central,Vegetation,100,2,182,2024,8,3,Thursday,Summer
+106,2024-02-05,A024,Transformer,West,Inspection Follow-up,26,3,172,2024,2,1,Monday,Winter
+107,2024-03-06,A021,Line,Central,Weather,175,3,143,2024,3,1,Wednesday,Spring
+108,2024-11-06,A021,Line,Central,Equipment Failure,222,5,353,2024,11,4,Wednesday,Fall
+109,2024-07-20,A038,Breaker,South,Inspection Follow-up,87,3,176,2024,7,3,Saturday,Summer
+110,2024-07-16,A002,Line,South,Overload,117,3,110,2024,7,3,Tuesday,Summer
+111,2024-02-09,A030,Line,North,Equipment Failure,245,4,243,2024,2,1,Friday,Winter
+112,2024-09-15,A029,Transformer,South,Equipment Failure,114,3,234,2024,9,3,Sunday,Fall
+113,2024-05-18,A032,Switch,East,Vegetation,41,2,146,2024,5,2,Saturday,Spring
+114,2024-07-17,A001,Transformer,North,Weather,170,4,193,2024,7,3,Wednesday,Summer
+115,2024-09-02,A029,Transformer,South,Inspection Follow-up,31,3,143,2024,9,3,Monday,Fall
+116,2024-09-27,A003,Feeder,South,Weather,95,5,203,2024,9,3,Friday,Fall
+117,2024-05-21,A033,Switch,East,Inspection Follow-up,75,1,26,2024,5,2,Tuesday,Spring
+118,2024-06-14,A038,Breaker,South,Inspection Follow-up,36,3,142,2024,6,2,Friday,Summer
+119,2024-07-11,A010,Transformer,Central,Overload,168,4,193,2024,7,3,Thursday,Summer
+120,2024-12-23,A012,Switch,South,Overload,130,3,93,2024,12,4,Monday,Winter
+121,2024-12-03,A032,Switch,East,Vegetation,101,4,30,2024,12,4,Tuesday,Winter
+122,2024-01-22,A023,Switch,Central,Overload,162,4,81,2024,1,1,Monday,Winter
+123,2024-11-16,A034,Feeder,East,Equipment Failure,149,5,190,2024,11,4,Saturday,Fall
+124,2024-01-27,A031,Feeder,North,Equipment Failure,163,5,139,2024,1,1,Saturday,Winter
+125,2024-09-15,A026,Line,Central,Overload,49,3,358,2024,9,3,Sunday,Fall
+126,2024-10-28,A018,Line,North,Equipment Failure,118,5,370,2024,10,4,Monday,Fall
+127,2024-05-11,A026,Line,Central,Overload,142,3,276,2024,5,2,Saturday,Spring
+128,2024-11-10,A020,Transformer,East,Inspection Follow-up,61,2,90,2024,11,4,Sunday,Fall
+129,2024-11-25,A024,Transformer,West,Inspection Follow-up,34,3,190,2024,11,4,Monday,Fall
+130,2024-11-07,A039,Feeder,West,Weather,194,2,204,2024,11,4,Thursday,Fall
+131,2024-07-09,A038,Breaker,South,Overload,154,3,35,2024,7,3,Tuesday,Summer
+132,2024-11-24,A001,Transformer,North,Equipment Failure,108,5,58,2024,11,4,Sunday,Fall
+133,2024-01-25,A027,Line,Central,Vegetation,78,3,350,2024,1,1,Thursday,Winter
+134,2024-11-14,A002,Line,South,Vegetation,122,2,176,2024,11,4,Thursday,Fall
+135,2024-04-25,A040,Switch,East,Weather,121,5,79,2024,4,2,Thursday,Spring
+136,2024-01-18,A004,Transformer,Central,Equipment Failure,164,3,183,2024,1,1,Thursday,Winter
+137,2024-07-06,A038,Breaker,South,Equipment Failure,263,5,106,2024,7,3,Saturday,Summer
+138,2024-04-11,A035,Line,South,Overload,116,3,278,2024,4,2,Thursday,Spring
+139,2024-12-22,A006,Switch,North,Overload,177,4,68,2024,12,4,Sunday,Winter
+140,2024-04-18,A036,Line,North,Equipment Failure,143,3,389,2024,4,2,Thursday,Spring
+141,2024-06-14,A021,Line,Central,Vegetation,98,4,243,2024,6,2,Friday,Summer
+142,2024-09-21,A003,Feeder,South,Inspection Follow-up,48,2,314,2024,9,3,Saturday,Fall
+143,2024-11-02,A022,Line,North,Vegetation,92,3,330,2024,11,4,Saturday,Fall
+144,2024-06-02,A034,Feeder,East,Weather,274,5,124,2024,6,2,Sunday,Summer
+145,2024-12-22,A040,Switch,East,Inspection Follow-up,15,3,24,2024,12,4,Sunday,Winter
+146,2024-10-08,A028,Feeder,North,Equipment Failure,114,5,160,2024,10,4,Tuesday,Fall
+147,2024-02-16,A015,Feeder,West,Vegetation,138,4,148,2024,2,1,Friday,Winter
+148,2024-06-01,A028,Feeder,North,Vegetation,42,4,470,2024,6,2,Saturday,Summer
+149,2024-12-24,A014,Line,North,Inspection Follow-up,24,2,249,2024,12,4,Tuesday,Winter
+150,2024-08-16,A006,Switch,North,Inspection Follow-up,70,3,27,2024,8,3,Friday,Summer
+151,2024-12-26,A015,Feeder,West,Vegetation,85,3,162,2024,12,4,Thursday,Winter
+152,2024-09-18,A010,Transformer,Central,Overload,63,3,83,2024,9,3,Wednesday,Fall
+153,2024-04-19,A033,Switch,East,Overload,130,3,41,2024,4,2,Friday,Spring
+154,2024-08-26,A034,Feeder,East,Equipment Failure,187,4,342,2024,8,3,Monday,Summer
+155,2024-08-11,A005,Transformer,Central,Vegetation,122,2,151,2024,8,3,Sunday,Summer
+156,2024-04-11,A028,Feeder,North,Inspection Follow-up,76,2,475,2024,4,2,Thursday,Spring
+157,2024-05-27,A025,Transformer,Central,Vegetation,80,2,56,2024,5,2,Monday,Spring
+158,2024-07-18,A005,Transformer,Central,Overload,117,4,146,2024,7,3,Thursday,Summer
+159,2024-11-22,A033,Switch,East,Overload,132,4,31,2024,11,4,Friday,Fall
+160,2024-06-01,A026,Line,Central,Vegetation,43,2,381,2024,6,2,Saturday,Summer
+161,2024-08-24,A031,Feeder,North,Weather,135,4,367,2024,8,3,Saturday,Summer
+162,2024-03-11,A029,Transformer,South,Vegetation,35,1,239,2024,3,1,Monday,Spring
+163,2024-07-01,A036,Line,North,Overload,143,3,181,2024,7,3,Monday,Summer
+164,2024-09-21,A014,Line,North,Equipment Failure,282,5,138,2024,9,3,Saturday,Fall
+165,2024-06-04,A021,Line,Central,Inspection Follow-up,59,3,382,2024,6,2,Tuesday,Summer
+166,2024-03-16,A016,Line,East,Vegetation,77,2,329,2024,3,1,Saturday,Spring
+167,2024-11-16,A019,Transformer,West,Equipment Failure,170,3,148,2024,11,4,Saturday,Fall
+168,2024-09-04,A027,Line,Central,Overload,47,2,314,2024,9,3,Wednesday,Fall
+169,2024-01-15,A037,Breaker,South,Weather,128,2,106,2024,1,1,Monday,Winter
+170,2024-04-26,A017,Feeder,South,Vegetation,41,3,339,2024,4,2,Friday,Spring
+171,2024-01-09,A004,Transformer,Central,Inspection Follow-up,36,3,118,2024,1,1,Tuesday,Winter
+172,2024-02-21,A009,Breaker,Central,Equipment Failure,127,4,145,2024,2,1,Wednesday,Winter
+173,2024-09-13,A006,Switch,North,Overload,134,4,111,2024,9,3,Friday,Fall
+174,2024-11-26,A014,Line,North,Overload,108,4,104,2024,11,4,Tuesday,Fall
+175,2024-11-12,A030,Line,North,Weather,91,2,161,2024,11,4,Tuesday,Fall
+176,2024-01-07,A017,Feeder,South,Weather,155,5,239,2024,1,1,Sunday,Winter
+177,2024-07-03,A031,Feeder,North,Weather,93,2,187,2024,7,3,Wednesday,Summer
+178,2024-06-24,A007,Transformer,North,Weather,140,3,194,2024,6,2,Monday,Summer
+179,2024-03-08,A014,Line,North,Equipment Failure,247,3,259,2024,3,1,Friday,Spring
+180,2024-07-04,A018,Line,North,Weather,123,4,107,2024,7,3,Thursday,Summer
+181,2024-02-01,A016,Line,East,Overload,175,3,359,2024,2,1,Thursday,Winter
+182,2024-11-18,A038,Breaker,South,Weather,63,5,51,2024,11,4,Monday,Fall
+183,2024-12-14,A035,Line,South,Inspection Follow-up,25,3,409,2024,12,4,Saturday,Winter
+184,2024-06-17,A016,Line,East,Weather,122,2,85,2024,6,2,Monday,Summer
+185,2024-08-17,A034,Feeder,East,Vegetation,46,4,254,2024,8,3,Saturday,Summer
+186,2024-01-28,A024,Transformer,West,Weather,187,3,235,2024,1,1,Sunday,Winter
+187,2024-10-12,A001,Transformer,North,Equipment Failure,210,3,113,2024,10,4,Saturday,Fall
+188,2024-08-01,A008,Feeder,South,Inspection Follow-up,43,2,279,2024,8,3,Thursday,Summer
+189,2024-01-08,A024,Transformer,West,Equipment Failure,234,4,189,2024,1,1,Monday,Winter
+190,2024-08-02,A035,Line,South,Vegetation,118,4,185,2024,8,3,Friday,Summer
+191,2024-10-19,A010,Transformer,Central,Vegetation,59,1,179,2024,10,4,Saturday,Fall
+192,2024-10-04,A004,Transformer,Central,Overload,114,3,119,2024,10,4,Friday,Fall
+193,2024-03-26,A010,Transformer,Central,Weather,102,2,128,2024,3,1,Tuesday,Spring
+194,2024-01-13,A020,Transformer,East,Inspection Follow-up,33,2,181,2024,1,1,Saturday,Winter
+195,2024-06-22,A029,Transformer,South,Inspection Follow-up,74,1,249,2024,6,2,Saturday,Summer
+196,2024-03-19,A006,Switch,North,Inspection Follow-up,17,1,138,2024,3,1,Tuesday,Spring
+197,2024-08-14,A028,Feeder,North,Overload,149,3,196,2024,8,3,Wednesday,Summer
+198,2024-08-12,A036,Line,North,Overload,138,4,263,2024,8,3,Monday,Summer
+199,2024-04-06,A037,Breaker,South,Inspection Follow-up,18,2,179,2024,4,2,Saturday,Spring
+200,2024-10-01,A007,Transformer,North,Equipment Failure,151,5,95,2024,10,4,Tuesday,Fall
+201,2024-09-16,A023,Switch,Central,Inspection Follow-up,78,1,76,2024,9,3,Monday,Fall
+202,2024-06-03,A001,Transformer,North,Vegetation,133,1,200,2024,6,2,Monday,Summer
+203,2024-11-19,A024,Transformer,West,Overload,117,4,216,2024,11,4,Tuesday,Fall
+204,2024-10-08,A012,Switch,South,Overload,115,4,66,2024,10,4,Tuesday,Fall
+205,2024-01-09,A037,Breaker,South,Weather,187,4,144,2024,1,1,Tuesday,Winter
+206,2024-06-18,A014,Line,North,Equipment Failure,107,3,291,2024,6,2,Tuesday,Summer
+207,2024-03-13,A025,Transformer,Central,Weather,272,5,131,2024,3,1,Wednesday,Spring
+208,2024-04-14,A011,Feeder,Central,Weather,200,2,147,2024,4,2,Sunday,Spring
+209,2024-07-03,A036,Line,North,Inspection Follow-up,45,3,107,2024,7,3,Wednesday,Summer
+210,2024-11-09,A019,Transformer,West,Inspection Follow-up,41,2,79,2024,11,4,Saturday,Fall
+211,2024-01-05,A006,Switch,North,Inspection Follow-up,62,2,88,2024,1,1,Friday,Winter
+212,2024-05-03,A007,Transformer,North,Weather,231,3,157,2024,5,2,Friday,Spring
+213,2024-04-27,A026,Line,Central,Weather,188,5,296,2024,4,2,Saturday,Spring
+214,2024-09-26,A010,Transformer,Central,Inspection Follow-up,26,2,120,2024,9,3,Thursday,Fall
+215,2024-03-09,A027,Line,Central,Weather,166,2,328,2024,3,1,Saturday,Spring
+216,2024-05-10,A026,Line,Central,Equipment Failure,245,4,270,2024,5,2,Friday,Spring
+217,2024-08-07,A018,Line,North,Overload,65,3,389,2024,8,3,Wednesday,Summer
+218,2024-04-27,A027,Line,Central,Overload,54,4,348,2024,4,2,Saturday,Spring
+219,2024-06-16,A013,Switch,Central,Weather,123,3,27,2024,6,2,Sunday,Summer
+220,2024-11-08,A039,Feeder,West,Overload,129,3,145,2024,11,4,Friday,Fall
+221,2024-07-13,A014,Line,North,Vegetation,95,2,391,2024,7,3,Saturday,Summer
+222,2024-11-04,A023,Switch,Central,Overload,117,2,92,2024,11,4,Monday,Fall
+223,2024-11-05,A031,Feeder,North,Weather,146,4,243,2024,11,4,Tuesday,Fall
+224,2024-09-10,A002,Line,South,Overload,143,3,353,2024,9,3,Tuesday,Fall
+225,2024-12-28,A011,Feeder,Central,Inspection Follow-up,31,2,165,2024,12,4,Saturday,Winter
+226,2024-04-17,A020,Transformer,East,Overload,135,3,212,2024,4,2,Wednesday,Spring
+227,2024-08-11,A008,Feeder,South,Overload,53,3,193,2024,8,3,Sunday,Summer
+228,2024-07-16,A012,Switch,South,Vegetation,30,2,129,2024,7,3,Tuesday,Summer
+229,2024-05-05,A025,Transformer,Central,Weather,69,4,51,2024,5,2,Sunday,Spring
+230,2024-11-05,A007,Transformer,North,Overload,82,3,183,2024,11,4,Tuesday,Fall
+231,2024-02-12,A022,Line,North,Overload,82,4,91,2024,2,1,Monday,Winter
+232,2024-07-04,A003,Feeder,South,Overload,176,4,473,2024,7,3,Thursday,Summer
+233,2024-02-17,A036,Line,North,Vegetation,49,1,390,2024,2,1,Saturday,Winter
+234,2024-01-18,A040,Switch,East,Weather,132,3,95,2024,1,1,Thursday,Winter
+235,2024-02-24,A032,Switch,East,Equipment Failure,213,5,43,2024,2,1,Saturday,Winter
+236,2024-02-28,A007,Transformer,North,Vegetation,88,1,124,2024,2,1,Wednesday,Winter
+237,2024-07-15,A003,Feeder,South,Weather,278,4,295,2024,7,3,Monday,Summer
+238,2024-10-13,A018,Line,North,Overload,147,2,327,2024,10,4,Sunday,Fall
+239,2024-12-28,A023,Switch,Central,Inspection Follow-up,76,1,100,2024,12,4,Saturday,Winter
+240,2024-09-20,A034,Feeder,East,Inspection Follow-up,81,2,466,2024,9,3,Friday,Fall
+241,2024-09-21,A004,Transformer,Central,Weather,224,3,134,2024,9,3,Saturday,Fall
+242,2024-07-14,A025,Transformer,Central,Overload,157,3,80,2024,7,3,Sunday,Summer
+243,2024-10-20,A003,Feeder,South,Inspection Follow-up,53,2,234,2024,10,4,Sunday,Fall
+244,2024-03-16,A031,Feeder,North,Vegetation,44,3,387,2024,3,1,Saturday,Spring
+245,2024-11-27,A009,Breaker,Central,Overload,90,3,41,2024,11,4,Wednesday,Fall
+246,2024-03-23,A038,Breaker,South,Weather,257,3,160,2024,3,1,Saturday,Spring
+247,2024-05-15,A038,Breaker,South,Equipment Failure,298,5,117,2024,5,2,Wednesday,Spring
+248,2024-12-21,A009,Breaker,Central,Equipment Failure,244,5,63,2024,12,4,Saturday,Winter
+249,2024-01-17,A012,Switch,South,Inspection Follow-up,29,3,93,2024,1,1,Wednesday,Winter
+250,2024-01-12,A007,Transformer,North,Weather,157,4,87,2024,1,1,Friday,Winter
